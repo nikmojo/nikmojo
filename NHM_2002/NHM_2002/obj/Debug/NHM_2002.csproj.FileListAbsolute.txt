@@ -1,0 +1,7 @@
+C:\Users\nikmojo\source\repos\NHM_2002\NHM_2002\obj\Debug\NHM_2002.csprojAssemblyReference.cache
+C:\Users\nikmojo\source\repos\NHM_2002\NHM_2002\obj\Debug\NHM_2002.csproj.CoreCompileInputs.cache
+C:\Users\nikmojo\source\repos\NHM_2002\NHM_2002\bin\Debug\NHM_2002.exe.config
+C:\Users\nikmojo\source\repos\NHM_2002\NHM_2002\bin\Debug\NHM_2002.exe
+C:\Users\nikmojo\source\repos\NHM_2002\NHM_2002\bin\Debug\NHM_2002.pdb
+C:\Users\nikmojo\source\repos\NHM_2002\NHM_2002\obj\Debug\NHM_2002.exe
+C:\Users\nikmojo\source\repos\NHM_2002\NHM_2002\obj\Debug\NHM_2002.pdb
